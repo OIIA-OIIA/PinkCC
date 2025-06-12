@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+nibabel
+scikit-learn
+tqdm
+matplotlib
+pathlib

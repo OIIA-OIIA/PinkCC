@@ -1,2 +1,6 @@
 # ignorer le dossier dataset
 dataset/
+new_dataset/
+checkpoints/
+.DS_store
+data/
